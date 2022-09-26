@@ -1,5 +1,5 @@
 # awesome-physical-simulation-based-model-deformation[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A collection of papers, codes and resources of human-like functional multi-fingered grasping.
+A collection of papers, codes and resources of SOTA Model Deformation by Physical Simulation (DPS) Methods.
 
 ## Papers
 
