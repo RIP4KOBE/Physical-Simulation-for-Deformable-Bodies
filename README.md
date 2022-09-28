@@ -7,6 +7,9 @@ A collection of papers, codes and resources of SOTA Model Deformation by Physica
 
 [Hierarchical Optimization Time Integration for CFL-Rate MPM Stepping](https://dl.acm.org/doi/10.1145/3386760) |[website](http://cg.cis.upenn.edu/publications.html) | [code](https://github.com/penn-graphics-research/HOT) 
 
+### Mesh generation
+[Neural Mesh Flow: 3D Manifold Mesh Generation via Diffeomorphic Flows](https://arxiv.org/abs/2007.10973) | [website](https://kunalmgupta.github.io/projects/NeuralMeshflow.html) | [code](https://github.com/KunalMGupta/NeuralMeshFlow)
+
 ## Talks
 
 [Visual Imitation Learning: Generalization, Perceptual Grounding, and Abstraction](https://www.youtube.com/watch?v=1TJHuO5TAfo) RSS Workshop 2020 
