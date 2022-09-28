@@ -12,10 +12,3 @@ A collection of papers, codes and resources of SOTA Model Deformation by Physica
 
 ## Talks
 
-[Visual Imitation Learning: Generalization, Perceptual Grounding, and Abstraction](https://www.youtube.com/watch?v=1TJHuO5TAfo) RSS Workshop 2020 
-
-[Imitation Learning Tutorial ICML 2018](https://www.youtube.com/watch?v=WjFdD7PDGw0)
-
-[Model-Based Visual Imitation Learning](https://www.youtube.com/watch?v=aiJp9GWdJnw) CVPR 2021 - Franziska Meier
-
-[Workshop on Learning from Diverse, Offline Data](https://www.youtube.com/watch?v=lHXp6j6YrY4&t=13s) RSS2022
