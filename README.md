@@ -3,6 +3,9 @@ A collection of papers, codes and resources of SOTA Model Deformation by Physica
 
 ## Papers
 
+### MPM Series
+
+[Hierarchical Optimization Time Integration for CFL-Rate MPM Stepping](https://dl.acm.org/doi/10.1145/3386760) |[website](http://cg.cis.upenn.edu/publications.html) | [code](https://github.com/penn-graphics-research/HOT) 
 
 ## Talks
 
