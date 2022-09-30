@@ -10,7 +10,7 @@ A collection of papers, codes and resources of SOTA physics-based simulation met
 
 [Higher-Order Finite Elements for Embedded Simulation](https://dl.acm.org/doi/10.1145/3414685.3417853) SIGGRAPH Asia 2020 | [website](https://animation.rwth-aachen.de/publication/0572/) | [code](https://github.com/InteractiveComputerGraphics/higher_order_embedded_fem)
 
-[Silly rubber: an implicit material point method for simulating non-equilibrated viscoelastic and elastoplastic solids](chrome-extension://ikhdkkncnoglghljlkmcimlnlhkeamad/pdf-viewer/web/viewer.html?file=http%3A%2F%2Fsquarefk.com%2Fstatic%2Ffiles%2Ffang2019visco.pdf#=&zoom=200) SIGGRAPH 2019 | [video](https://www.youtube.com/watch?v=7WKW3kM56cE) | [code](https://github.com/penn-graphics-research/ziran2019)
+[Silly rubber: an implicit material point method for simulating non-equilibrated viscoelastic and elastoplastic solids](https://dl.acm.org/doi/10.1145/3306346.3322968) SIGGRAPH 2019 | [video](https://www.youtube.com/watch?v=7WKW3kM56cE) | [code](https://github.com/penn-graphics-research/ziran2019)
 
 [A Material Point Method for Thin Shells with Frictional Contact](https://dl.acm.org/doi/10.1145/3197517.3201346) SIGGRAPH 2018 | [website](https://replicability.graphics/papers/10.1145-3197517.3201346/index.html)
 
@@ -24,9 +24,9 @@ A collection of papers, codes and resources of SOTA physics-based simulation met
 [Example-based Plastic Deformation of Rigid Bodies](https://dl.acm.org/doi/10.1145/2897824.2925979) SIGGRAPH 2016 | [code](https://github.com/RIP4KOBE/exampleBasedPlastic)
 
 ### Fracture
-[Simulating Brittle Fracture with Material Points](chrome-extension://ikhdkkncnoglghljlkmcimlnlhkeamad/pdf-viewer/web/viewer.html?file=https%3A%2F%2Fdl.acm.org%2Fdoi%2Fpdf%2F10.1145%2F3522573#=&zoom=200) SIGGRAPH 2022
+[Simulating Brittle Fracture with Material Points](https://dl.acm.org/doi/full/10.1145/3522573) SIGGRAPH 2022
 
-[Fast approximations for boundary element based brittle fracture simulation](chrome-extension://ikhdkkncnoglghljlkmcimlnlhkeamad/pdf-viewer/web/viewer.html?file=https%3A%2F%2Fpub.ist.ac.at%2Fgroup_wojtan%2Fprojects%2F2016_Hahn_FastFracture%2Fdownload%2F2016_Hahn_FastFracture.pdf#=&zoom=200) SIGGRAPH 2016 | [website](https://pub.ist.ac.at/group_wojtan/projects/2016_Hahn_FastFracture/) | [code](https://github.com/david-hahn/FractureRB)
+[Fast approximations for boundary element based brittle fracture simulation](https://dl.acm.org/doi/10.1145/2897824.2925902) SIGGRAPH 2016 | [website](https://pub.ist.ac.at/group_wojtan/projects/2016_Hahn_FastFracture/) | [code](https://github.com/david-hahn/FractureRB)
 
 ### Mesh generation
 [Neural Mesh Flow: 3D Manifold Mesh Generation via Diffeomorphic Flows](https://arxiv.org/abs/2007.10973) arXiv 2020 | [website](https://kunalmgupta.github.io/projects/NeuralMeshflow.html) | [code](https://github.com/KunalMGupta/NeuralMeshFlow)
