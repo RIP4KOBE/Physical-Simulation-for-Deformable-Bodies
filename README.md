@@ -1,4 +1,4 @@
-# Physics-based Simulation for Deformable Bodies
+# Physical-Simulation-for-Deformable-Bodies
 A collection of papers, codes and resources of SOTA physics-based simulation methods for deformable bodies.
 
 ## Survey
